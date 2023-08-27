@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://trinadhkatlagunta.io)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Trinadh Katlagunta</h1>
 <h3 align="center">"I am an aspiring programmer from India with a keen interest in the fields of Artificial Intelligence (AI) and Machine Learning (ML). My goal is to specialize in AI and ML technologies to contribute to the development of intelligent systems and solutions.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif">
