@@ -15,6 +15,6 @@
 
 ### About Me
 
-- I’m currently learning ** Currently learning full stack development & building my own website**
+- I’m currently learning Full stack development & building my own website
 - How to reach me: **katlaguntatrinadh37@gmail.com**
 
